@@ -1,10 +1,8 @@
-# Welcome to Hope's GitHub Profile!
-
-![Profile Banner](link_to_your_banner_image)
+# Welcome!
 
 ## About Me
 
-Hello! I'm Hope, a passionate software developer with a focus on web development and a keen interest in building 
+Hello! I'm Sxhlx, a passionate software developer with a focus on web development and a keen interest in building 
 robust and scalable applications. I love working with a variety of technologies and am always excited to learn and explore new tools. 
 Currently, I'm diving into the world of the MERN stack, and my journey is fueled by curiosity and a drive to create meaningful projects.
 
@@ -30,8 +28,7 @@ I'm excited about creating dynamic and interactive web applications using this p
 
 ## Contact Me
 
-Let's connect! Feel free to reach out to me through LinkedIn (https://www.linkedin.com/in/hope-kodisang/) or 
-personal website (https://www.whoishope.com). I'm always open to interesting discussions, collaboration opportunities, 
+I'm always open to interesting discussions, collaboration opportunities, 
 or just a friendly chat!
 
 Looking forward to exploring the endless possibilities of software together!
